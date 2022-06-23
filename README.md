@@ -1,6 +1,11 @@
 ## md-for-ameblo
 Personal development markdown compiler for ameblo
 
+## Special Thanks
+[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
+[marked.js](https://github.com/markedjs/marked)
+[highlight.js](https://github.com/highlightjs/highlight.js/)
+
 ## How to Use
 1. Open index.html with browser
 1. Drag and drop or click page
