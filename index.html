@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <style>
+    @font-face {
+      font-family: "notice";
+      src: url("fonts/notice.woff2");
+    }
+
+    html,
+    body {
+      height: 100%;
+    }
+
+    .notice {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateY(-50%) translateX(-50%);
+
+      color: #6c757d;
+      font-family: "notice";
+    }
+  </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.0/highlight.min.js"></script>
+
+</head>
+
+<body>
+  <h3 class="notice">Drag and Drop or Click Here</h3>
+</body>
+
+<script src="javascripts/config.js"></script>
+<script src="javascripts/main.js"></script>
+
+</html>
