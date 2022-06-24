@@ -2,18 +2,16 @@
 Personal development markdown compiler for ameblo
 
 ## Special Thanks
-[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)</br>
-[marked.js](https://github.com/markedjs/marked)</br>
-[highlight.js](https://github.com/highlightjs/highlight.js/)</br>
+1. [marked.js](https://github.com/markedjs/marked)
+1. [highlight.js](https://github.com/highlightjs/highlight.js/)
+1. [github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
 
 ## How to Use
-1. Open index.html with browser
+1. Open [Github Pages](https://m-dev672.github.io/md-for-ameblo/) or clone this project and open index.html
 1. Drag and drop or click page
 1. Copy output and paste to html editor of ameblo
 
-## Demo
-[Demo](https://m-dev672.github.io/md-for-ameblo/)
-[Result](https://ameblo.jp/m-dev672)
+## [Demo](https://ameblo.jp/m-dev672)
 
 ## LICENCE
 
