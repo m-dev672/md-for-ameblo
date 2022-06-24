@@ -11,7 +11,9 @@ Personal development markdown compiler for ameblo
 1. Drag and drop or click page
 1. Copy output and paste to html editor of ameblo
 
-## [Demo](https://ameblo.jp/m-dev672/entry-12749900269.html)
+## Demo
+[Demo](https://m-dev672.github.io/md-for-ameblo/)
+[Result](https://ameblo.jp/m-dev672)
 
 ## LICENCE
 
